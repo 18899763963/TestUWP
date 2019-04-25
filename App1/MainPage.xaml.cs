@@ -29,7 +29,7 @@ namespace App1
 
         private void InputButton_Click(object sender, RoutedEventArgs e)
         {
-            greetingOutput.Text = "Branch3_From_Master_Hello, " + nameInput.Text + "!";
+            greetingOutput.Text = "Master_Hello, " + nameInput.Text + "!";
         }
     }
 }
